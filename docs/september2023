@@ -31,3 +31,12 @@ Blockers:
 My knowledge of agile development
 What will I work on next:
 Completing the figma pages for all features I've accounted for
+
+August 24th 2023
+What did I do:
+I created barebones gymshark style pages for all the basic functionality I want in this first iteration
+According to the Figma Mock, users can sign up, log in, create workouts, add exercises, and do them
+Blockers:
+N/A
+What will I work on next:
+Develop each page individually in React using crude method of folders to store information for users
