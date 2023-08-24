@@ -1,0 +1,33 @@
+Initiative: Create working clone of gym shark that works when hosted locally
+
+Main Goal:
+Create a working app by the end of September
+Compromises:
+1 persistent storage doesnt have to work with individual users
+2 style doesnt have to be perfect
+
+Stories:
+Users need to be able to login and access their saved workouts and log their reps and sets
+Users need to be able to view past workout history which includes reps, sets, date and duration
+Users need to be able to create workouts and add exercises
+Users need to be able to start a workout, close the app, and have the workout still in progress when reopen it
+Users need to be able to sign up with their email address and name
+
+ToDo:
+User Stories (Move them to complete when done)
+Create the individual pages in react
+Style individual pages using CSS
+Use React routing to connect the pages
+Create persistent storage to store workouts
+
+Complete:
+
+Notes:
+August 23rd 2023
+What did I do:
+Created stories for september sprint and basic initiative
+Planned out basic sprint cycle
+Blockers:
+My knowledge of agile development
+What will I work on next:
+Completing the figma pages for all features I've accounted for
